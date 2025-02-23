@@ -1,3 +1,5 @@
+# lokalizowany w githubie
+https://github.com/trelatomasz/issi-ai-api
 # issi-ai-api
 
 Prosty serwis API z wykorzystaniem biblioteki FastAPI.
@@ -15,3 +17,6 @@ lub
 ## Testownie modelu
 
 http://localhost:8000/docs#/default/predict_predict_post
+
+## Uruchamianie testów
+`pytest`
