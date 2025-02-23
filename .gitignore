@@ -9,6 +9,12 @@ results/
 
 .idea/
 
+*.pkl
+
+results/
+
+.idea/
+
 # C extensions
 *.so
 
